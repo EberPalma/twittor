@@ -1,7 +1,7 @@
 {
     "background_color": "whitesmoke",
     "description": "description",
-    "start_url": "/",
+    "start_url": "index.html",
     "short_name": "PWA",
     "display": "minimal-ui",
     "icons": [
