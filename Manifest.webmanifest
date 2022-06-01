@@ -1,9 +1,14 @@
-{
-    "background_color": "whitesmoke",
-    "description": "description",
-    "start_url": "index.html",
-    "short_name": "PWA",
-    "display": "minimal-ui",
+
+    {
+        "name": "PWA",
+        "short_name": "PWA",
+        "theme_color": "#2196f3",
+        "background_color": "whitesmoke",
+        "display": "fullscreen",
+        "orientation": "portrait",
+        "scope": "/",
+        "start_url": "index.html",
+      
     "icons": [
         {
             "src": "img/icons/icon-192x192.png",
