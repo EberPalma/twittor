@@ -1,7 +1,7 @@
 // * Imports
 importScripts("js/sw-utils.js");
 
-const STATIC_CACHE = "static-v1";
+const STATIC_CACHE = "static-v2";
 const DINAMYC_CACHE = "dimamyc-v1";
 const INMUTABLE_CACHE = "inmutable-v1";
 
@@ -11,6 +11,7 @@ const appShell = [
   "/css/style.css",
   "/img/favicon.ico",
   "/js/app.js",
+  "/js/sw-utils.js",
 ];
 const inmutable = [
   "/js/libs/jquery.js",
