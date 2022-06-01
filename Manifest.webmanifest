@@ -6,7 +6,7 @@
         "background_color": "whitesmoke",
         "display": "fullscreen",
         "orientation": "portrait",
-        "scope": "/",
+        "scope": "/twittor/",
         "start_url": "/twittor/",
       
     "icons": [
