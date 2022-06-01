@@ -1,7 +1,7 @@
 {
     "short_name": "Twittor",
     "name": "Twitter para sh",
-    "start_url": "/",
+    "start_url": "/twittor/",
     "background_color": "#ffffff",
     "theme_color": "#303030",
     "display": "standalone",
