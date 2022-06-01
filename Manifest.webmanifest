@@ -1,12 +1,12 @@
 {
     "short_name": "Twittor",
-    "name": "Twitter para sh",
-    "start_url": "/twittor/",
-    "background_color": "#ffffff",
-    "theme_color": "#303030",
+    "name": "Twitter para superheroes",
+    "description": "Twitter para superheroes",
+    "start_url": "index.html",
+    "background_color": "#3498db",
     "display": "standalone",
     "orientation": "portrait",
-    "status_bar": "black",
+    "theme_color": "#3498db",
     "icons": [
             {
                 "src": "img/icons/icon-72x72.png",
